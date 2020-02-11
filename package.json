@@ -4,7 +4,7 @@
   "description": "BCS Homework Lesson 1",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "doc": "jsdoc -c jsdoc.json"
   },
   "repository": {
     "type": "git",
